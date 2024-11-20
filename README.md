@@ -1,4 +1,4 @@
-##CountyHealthData 
+## CountyHealthData 
 
 This repository contains data about the the health data in multiple counties from each state in the U.S.
 
