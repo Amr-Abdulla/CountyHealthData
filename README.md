@@ -23,14 +23,17 @@ Advocacy groups can use the data to highlight areas of need, mobilize support fo
 
 ## potential
 What might this data, and its analysis, show us?
+
 1. Health Inequities
 Regional and Socioeconomic Disparities: Analysis might show how income, education, and employment levels affect health outcomes like life expectancy or chronic disease rates.
 Access to Care: It could highlight counties where healthcare access is limited, such as those with high uninsured rates or few healthcare providers.
-2. Interconnectedness of Health Determinants
+
+3. Interconnectedness of Health Determinants
 Behavioral Influences: Connections between behaviors (e.g., smoking, physical inactivity) and outcomes like obesity or diabetes.
 Social Determinants: How factors like housing, education, and employment correlate with physical and mental health.
 Environmental Impacts: Links between air or water quality and conditions like asthma or other respiratory illnesses.
-3. Community-Specific Challenges
+
+5. Community-Specific Challenges
 Rural vs. Urban: Differences in health outcomes, access to services, and environmental risks in rural areas compared to urban ones.
 High-Risk Groups: Identification of vulnerable populations, such as those affected by high poverty rates or food insecurity.
 
