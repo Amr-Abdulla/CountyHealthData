@@ -68,7 +68,7 @@ The dataset’s detailed metrics make it a powerful tool for understanding and i
 ## How can users get started with the repository?
 Users can start by:
 
-Accessing the data: Download the dataset from the [County Health Rankings & Roadmaps website.](https://cdn.inst-fs-iad-prod.inscloudgate.net/bdd40fa3-d320-41be-930e-01de1ac872aa/CountyHealthData_2014-2015.csv?token=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCIsImtpZCI6ImNkbiJ9.eyJyZXNvdXJjZSI6Ii9iZGQ0MGZhMy1kMzIwLTQxYmUtOTMwZS0wMWRlMWFjODcyYWEvQ291bnR5SGVhbHRoRGF0YV8yMDE0LTIwMTUuY3N2IiwidGVuYW50IjoiY2FudmFzIiwidXNlcl9pZCI6IjcwMDYwMDAwMDAwMTM3NzU5IiwiaWF0IjoxNzMyMDU4MTQ4LCJleHAiOjE3MzIxNDQ1NDh9.xNxJLHAFj3m3kmONaHRUQAPpewkUJgsQhFIxM6kvd9wfz9cWKJzTdTCFN33AXTkhhGE5wD1ovhcqBOsz6_TG5w&download=1&content_type=text%2Fcsv)
+Accessing the data: Download the dataset from the (https://cdn.inst-fs-iad-prod.inscloudgate.net/bdd40fa3-d320-41be-930e-01de1ac872aa/CountyHealthData_2014-2015.csv?token=eyJhbGciOiJIUzUxMiIsInR5cCI6IkpXVCIsImtpZCI6ImNkbiJ9.eyJyZXNvdXJjZSI6Ii9iZGQ0MGZhMy1kMzIwLTQxYmUtOTMwZS0wMWRlMWFjODcyYWEvQ291bnR5SGVhbHRoRGF0YV8yMDE0LTIwMTUuY3N2IiwidGVuYW50IjoiY2FudmFzIiwidXNlcl9pZCI6IjcwMDYwMDAwMDAwMTM3NzU5IiwiaWF0IjoxNzMyMDU4MTQ4LCJleHAiOjE3MzIxNDQ1NDh9.xNxJLHAFj3m3kmONaHRUQAPpewkUJgsQhFIxM6kvd9wfz9cWKJzTdTCFN33AXTkhhGE5wD1ovhcqBOsz6_TG5w&download=1&content_type=text%2Fcsv)
 
 Understanding the variables: Review the data dictionary/documentation to understand the included metrics and how they are calculated.
 
