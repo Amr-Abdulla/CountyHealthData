@@ -4,7 +4,24 @@ This repository contains data about the the health data in multiple counties fro
 
 ## Purpose
 What is this data for?
+The County Health Rankings 2014-2015 dataset is designed to provide a comprehensive overview of the factors influencing health and well-being at the county level across the United States. The primary purposes of this data are:
 
+1. To assess community health
+The dataset ranks counties within states based on a variety of health measures, such as life expectancy, mental health, access to healthcare, and environmental quality. These rankings help stakeholders identify the overall health of a community.
+
+2. To inform decision-making and resource allocation
+Local governments, public health organizations, and policymakers use this data to identify health disparities and determine where to allocate resources, funding, or interventions.
+
+3. To track progress and outcomes
+Communities can use the data to monitor changes in health outcomes and behaviors over time, evaluate the impact of health programs, and set goals for improvement.
+
+4. To foster collaboration
+The rankings and data encourage collaboration between health departments, nonprofits, businesses, schools, and other organizations to address pressing health challenges collectively.
+
+5. To empower community advocacy
+Advocacy groups can use the data to highlight areas of need, mobilize support for health initiatives, and engage stakeholders in improving health outcomes.
+
+In short, the data serves as a foundation for understanding the health landscape of counties, guiding efforts to create healthier communities. Would you like help using this dataset for a specific project?
 ## Provenance
 Where did this data come from?
 
