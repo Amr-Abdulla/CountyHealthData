@@ -11,3 +11,12 @@ Where did this data come from?
 ## potential
 What might this data, and its analysis, show us?
 
+## What does the repository/dataset provide?
+
+## Why is the repository is useful?
+
+## How can users get started with the repository?
+
+## Where can users get help with your repository?
+
+## Who maintains and contributes to the repository?
