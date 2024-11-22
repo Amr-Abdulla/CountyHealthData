@@ -21,10 +21,8 @@ The rankings and data encourage collaboration between health departments, nonpro
 5. To empower community advocacy
 Advocacy groups can use the data to highlight areas of need, mobilize support for health initiatives, and engage stakeholders in improving health outcomes.
 
-## Provenance
-Where did this data come from?
-
 ## potential
+What might this data, and its analysis, show us?
 1. Health Inequities
 Regional and Socioeconomic Disparities: Analysis might show how income, education, and employment levels affect health outcomes like life expectancy or chronic disease rates.
 Access to Care: It could highlight counties where healthcare access is limited, such as those with high uninsured rates or few healthcare providers.
