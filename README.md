@@ -77,18 +77,12 @@ Exploring tools: Use tools provided on the website, such as visualizations and r
 Analyzing the data: Load the dataset into software like Excel, R, Python, or SPSS for custom analyses.
 
 ## Where can users get help with your repository?
-Official resources: Consult documentation, FAQs, and methodology notes on the County Health Rankings website.
-
 Community support: Join forums or groups focused on health data analysis.
-
-Contact support: Use the contact form or email provided on the website for specific questions.
 
 Academic resources: University libraries or health departments often provide workshops or guides for using such datasets.
 
 ## Who maintains and contributes to the repository?
-The County Health Rankings & Roadmaps program is maintained by the University of Wisconsin Population Health Institute in collaboration with the Robert Wood Johnson Foundation. Contributions include:
-
-Health researchers and statisticians at the University of Wisconsin.
+Health researchers and statisticians around the country from various univeristies
 
 Policy experts and public health advocates.
 
