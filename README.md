@@ -88,8 +88,16 @@ Users can start by:
 
 * Collaborative partners at the local, state, and national levels.
 
-  ## Data Visualization
+ ## Data Visualization
+ * The following is a graph of cancer Rates related to smoking in various different counties
   ![image](https://github.com/user-attachments/assets/c8e51f21-be7a-4763-be54-158626bfe50d)
+ * In the context of county health data, this graph could be used to:
+
+1. Analyze the impact of smoking: The graph likely examines how cancer rates might change if smoking were eliminated, offering insights into the role smoking plays in health outcomes at the county level.
+  
+2. Identify high-risk counties: Counties with high smoking-related cancer rates could be flagged for health interventions and policy changes.
+  
+3. Support health policy recommendations: Understanding regional differences in smoking-related cancer rates can help target public health initiatives and smoking cessation programs to specific areas where they may have the greatest impact.
 
 
 
