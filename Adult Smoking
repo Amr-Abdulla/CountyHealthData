@@ -1,7 +1,6 @@
-State,Region,Division ,County,Adult Smoking
+State,Region,Division ,County,Adult, Smoking
 NC,South,South Atlantic,Alamance County,0.238
 NC,South,South Atlantic,Alamance County,0.238
 NC,South,South Atlantic,Alexander County,0.26
 NC,South,South Atlantic,Alexander County,0.26
 NC,South,South Atlantic,Alleghany County,0.271
-,,,,
