@@ -21,7 +21,7 @@ The rankings and data encourage collaboration between health departments, nonpro
 5. To empower community advocacy
 Advocacy groups can use the data to highlight areas of need, mobilize support for health initiatives, and engage stakeholders in improving health outcomes.
 
-## potential
+## Potential
 What might this data, and its analysis, show us?
 
 1. Health Inequities
