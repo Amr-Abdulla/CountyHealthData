@@ -42,28 +42,28 @@ The County Health Rankings 2014-2015 dataset offers comprehensive health data fo
 
 * Health outcomes (e.g., mortality, morbidity).
 
-Health behaviors (e.g., smoking, physical inactivity).
+* Health behaviors (e.g., smoking, physical inactivity).
 
-Clinical care (e.g., access to care, quality of care).
+* Clinical care (e.g., access to care, quality of care).
 
-Socioeconomic factors (e.g., education, employment, income).
+* Socioeconomic factors (e.g., education, employment, income).
 
-Physical environment (e.g., housing quality, air quality).
+* Physical environment (e.g., housing quality, air quality).
 
-This dataset allows users to explore factors that influence community health and identify disparities.
+* This dataset allows users to explore factors that influence community health and identify disparities.
 
 ## Why is the repository is useful?
 The dataset is valuable for:
 
-Public health research: Analyzing health trends and identifying at-risk populations.
+* Public health research: Analyzing health trends and identifying at-risk populations.
 
-Policy-making: Informing decisions to improve community health and allocate resources.
+* Policy-making: Informing decisions to improve community health and allocate resources.
 
-Education: Serving as a teaching tool in health-related academic courses.
+* Education: Serving as a teaching tool in health-related academic courses.
 
-Community advocacy: Empowering local organizations to address health disparities.
+* Community advocacy: Empowering local organizations to address health disparities.
 
-The dataset’s detailed metrics make it a powerful tool for understanding and improving population health.
+* The dataset’s detailed metrics make it a powerful tool for understanding and improving population health.
 
 ## How can users get started with the repository?
 Users can start by:
