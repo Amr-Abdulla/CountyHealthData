@@ -1,1 +1,226 @@
-
+	sex	primary_diagnosis_site
+5570	female	thyroid gland
+7492	male	bronchus and lung
+9240	female	bronchus and lung
+7601	male	pancreas
+9524	male	colon
+4724	female	corpus uteri
+3538	male	rectum
+6760	male	kidney
+6289	male	prostate gland
+11866	female	lung
+2551	female	bronchus and lung
+9237	female	chest
+8718	female	ovary
+9024	male	liver and intrahepatic bile ducts
+8897	female	ovary
+9362	male	bronchus and lung
+10653	male	stomach
+1201	male	kidney
+2752	male	kidney
+9736	male	kidney
+3286	male	colon
+5002	female	thyroid gland
+7271	male	bronchus and lung
+687	male	lung
+6435	male	esophagus
+11231	female	ovary
+1641	female	chest
+2093	female	chest
+1753	female	ovary
+10359	female	corpus uteri
+8963	female	ovary
+1714	female	ovary
+6222	female	thyroid gland
+9590	female	colon
+2901	male	colon
+6413	female	esophagus
+8297	female	pancreas
+9254	male	bronchus and lung
+3584	male	kidney
+1494	male	lung
+517	female	kidney
+2083	female	ovary
+10584	female	adrenal gland
+6840	male	stomach
+4485	male	prostate gland
+11323	male	colon
+950	female	uterus, nos
+7849	female	lung
+313	female	kidney
+7293	male	bronchus and lung
+10559	male	bronchus and lung
+3033	male	colon
+8461	female	ovary
+288	female	pancreas
+5201	female	cervix
+10460	female	pancreas
+741	male	lung
+6472	female	cervix
+9044	female	ovary
+1131	male	bronchus and lung
+4455	female	stomach
+7623	male	pancreas
+7842	female	uterus, nos
+4075	male	kidney
+2257	female	bronchus and lung
+11756	female	ovary
+7412	female	bronchus and lung
+786	female	uterus, nos
+11888	male	lung
+10463	male	pancreas
+1271	male	bronchus and lung
+7394	male	bronchus and lung
+11107	female	ovary
+3947	female	thyroid gland
+5851	male	rectum
+6107	female	pancreas
+6703	male	esophagus
+9580	female	colon
+7991	male	pancreas
+6856	male	stomach
+8605	female	ovary
+6731	male	prostate gland
+10759	male	stomach
+6810	male	esophagus
+127	male	kidney
+8071	female	pancreas
+436	female	bronchus and lung
+8778	female	ovary
+11010	female	ovary
+228	male	kidney
+5544	female	thyroid gland
+9558	male	colon
+3928	female	corpus uteri
+5192	female	cervix uteri
+8074	female	pancreas
+11455	female	colon
+9070	female	ovary
+11007	female	ovary
+8708	female	ovary
+1991	female	ovary
+4382	male	stomach
+3888	female	liver and intrahepatic bile ducts
+7850	male	pancreas
+5876	male	prostate gland
+10767	female	cervix
+3424	male	rectum
+925	male	kidney
+7170	female	bronchus and lung
+10701	male	stomach
+7931	male	bronchus and lung
+5855	male	kidney
+10785	male	liver and intrahepatic bile ducts
+2884	male	colon
+7368	female	bronchus and lung
+4079	male	kidney
+2903	female	colon
+4671	male	kidney
+11728	female	ovary
+11220	female	ovary
+8436	female	ovary
+2815	female	kidney
+3503	female	rectum
+3171	male	colon
+4262	female	stomach
+2784	female	kidney
+8825	female	ovary
+2428	female	ovary
+3877	male	kidney
+3441	male	rectum
+9261	male	chest
+5436	male	thyroid gland
+9447	male	chest
+8508	female	ovary
+8257	male	pancreas
+8410	female	ovary
+11721	male	colon
+9729	male	kidney
+5678	female	kidney
+3065	female	colon
+4070	male	kidney
+4186	female	stomach
+8184	male	pancreas
+1203	male	kidney
+7910	male	lung
+1678	female	ovary
+3320	male	colon
+11825	female	kidney
+236	female	uterus, nos
+8989	female	ovary
+5988	male	prostate gland
+1397	male	bronchus and lung
+716	male	bronchus and lung
+6516	female	cervix
+9641	female	rectum
+3995	male	kidney
+1458	female	uterus, nos
+535	female	uterus, nos
+6949	male	prostate gland
+3588	female	kidney
+1250	female	uterus, nos
+4818	male	stomach
+6909	female	cervix
+8377	female	ovary
+11704	female	ovary
+4122	female	stomach
+10392	male	colon
+11210	female	ovary
+10626	female	stomach
+3464	male	rectum
+7388	female	bronchus and lung
+11535	male	colon
+10238	male	colon
+4720	female	corpus uteri
+1277	male	bronchus and lung
+11209	female	ovary
+1724	female	ovary
+7584	female	pancreas
+6469	female	cervix
+11332	female	colon
+8	male	bronchus and lung
+7885	male	bronchus and lung
+8299	female	pancreas
+1804	female	ovary
+5318	male	prostate gland
+1965	male	chest
+4036	male	kidney
+11456	female	colon
+5738	female	cervix
+1817	female	ovary
+1631	male	chest
+2641	male	bronchus and lung
+3388	female	rectosigmoid junction
+4443	male	stomach
+3773	female	kidney
+3740	male	kidney
+4014	female	kidney
+11827	female	kidney
+898	female	bronchus and lung
+8522	female	ovary
+10288	female	thyroid gland
+3969	female	thyroid gland
+11122	female	ovary
+347	male	pancreas
+3827	female	stomach
+2942	male	colon
+10395	female	colon
+7913	female	pancreas
+523	female	uterus, nos
+2635	female	bronchus and lung
+1000	male	lung
+10973	female	ovary
+764	male	bronchus and lung
+1252	female	uterus, nos
+11580	female	colon
+8626	female	ovary
+699	female	uterus, nos
+796	female	uterus, nos
+9682	male	colon
+9082	male	bronchus and lung
+11233	female	ovary
+3448	female	rectum
+6584	female	adrenal gland
+5476	male	thyroid gland
+8106	male	bronchus and lung
+8114	female	uterus, nos
