@@ -23,7 +23,7 @@ Advocacy groups can use the data to highlight areas of need, mobilize support fo
 ## Provenance 
 Where did this data come from?
 
-* This data came from the CountyHelathData 2014-2015.
+* This data came from the CountyHelathData 2014-2015. https://uncch.instructure.com/courses/64002/files/8242988?wrap=1
 ## Potential
 What might this data, and its analysis, show us?
 
