@@ -22,6 +22,7 @@ The rankings and data encourage collaboration between health departments, nonpro
 Advocacy groups can use the data to highlight areas of need, mobilize support for health initiatives, and engage stakeholders in improving health outcomes.
 ## Provenance 
 Where did this data come from?
+
 *This data came from the CountyHelathData 2014-2015.
 ## Potential
 What might this data, and its analysis, show us?
