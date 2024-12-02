@@ -40,7 +40,7 @@ High-Risk Groups: Identification of vulnerable populations, such as those affect
 ## What does the repository/dataset provide?
 The County Health Rankings 2014-2015 dataset offers comprehensive health data for counties across the United States. It includes metrics on:
 
-# Health outcomes (e.g., mortality, morbidity).
+* Health outcomes (e.g., mortality, morbidity).
 
 Health behaviors (e.g., smoking, physical inactivity).
 
